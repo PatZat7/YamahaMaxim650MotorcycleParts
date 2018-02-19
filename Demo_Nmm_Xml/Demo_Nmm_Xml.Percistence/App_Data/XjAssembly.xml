@@ -1,0 +1,641 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Assemblies xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  
+  <Assembly>
+    <Id>1</Id>
+    <Name>Flasher Lights</Name>
+    <Description>Where you sit</Description>
+    <Image></Image>
+    <NoOfParts></NoOfParts>
+    <HowItWorks></HowItWorks>
+      <Parts>
+        <part1></part1>
+        <part2></part2>
+        <part3></part3>
+      </Parts>
+  </Assembly>
+
+  <Assembly>
+    <Id>2</Id>
+    <Name>Fuel Tank</Name>
+    <Description></Description>
+    <Image></Image>
+    <NoOfParts></NoOfParts>
+    <HowItWorks></HowItWorks>
+    <Parts>
+      <part1></part1>
+      <part2></part2>
+      <part3></part3>
+    </Parts>
+  </Assembly>
+
+  <Assembly>
+    <Id>3</Id>
+    <Name>Frame</Name>
+    <Description></Description>
+    <Image></Image>
+    <NoOfParts></NoOfParts>
+    <HowItWorks></HowItWorks>
+    <Parts>
+      <part1></part1>
+      <part2></part2>
+      <part3></part3>
+    </Parts>
+  </Assembly>
+
+  <Assembly>
+    <Id>4</Id>
+    <Name>Front Fork</Name>
+    <Description></Description>
+    <Image></Image>
+    <NoOfParts></NoOfParts>
+    <HowItWorks></HowItWorks>
+    <Parts>
+      <part1></part1>
+      <part2></part2>
+      <part3></part3>
+    </Parts>
+  </Assembly>
+
+  <Assembly>
+    <Id>5</Id>
+    <Name>Front Brake Caliper</Name>
+    <Description></Description>
+    <Image></Image>
+    <NoOfParts></NoOfParts>
+    <HowItWorks></HowItWorks>
+    <Parts>
+      <part1></part1>
+      <part2></part2>
+      <part3></part3>
+    </Parts>
+  </Assembly>
+
+  <Assembly>
+    <Id>6</Id>
+    <Name>Front Master Cylinder</Name>
+    <Description></Description>
+    <Image></Image>
+    <NoOfParts></NoOfParts>
+    <HowItWorks></HowItWorks>
+    <Parts>
+      <part1></part1>
+      <part2></part2>
+      <part3></part3>
+    </Parts>
+  </Assembly>
+
+  <Assembly>
+    <Id>7</Id>
+    <Name>Front Wheel</Name>
+    <Description></Description>
+    <Image></Image>
+    <NoOfParts></NoOfParts>
+    <HowItWorks></HowItWorks>
+    <Parts>
+      <part1></part1>
+      <part2></part2>
+      <part3></part3>
+    </Parts>
+  </Assembly>
+
+  <Assembly>
+    <Id>8</Id>
+    <Name>Handle Switch Lever</Name>
+    <Description></Description>
+    <Image></Image>
+    <NoOfParts></NoOfParts>
+    <HowItWorks></HowItWorks>
+    <Parts>
+      <part1></part1>
+      <part2></part2>
+      <part3></part3>
+    </Parts>
+  </Assembly>
+
+  <Assembly>
+    <Id>9</Id>
+    <Name>Handlebar Cable</Name>
+    <Description></Description>
+    <Image></Image>
+    <NoOfParts></NoOfParts>
+    <HowItWorks></HowItWorks>
+    <Parts>
+      <part1></part1>
+      <part2></part2>
+      <part3></part3>
+    </Parts>
+  </Assembly>
+
+  <Assembly>
+    <Id>10</Id>
+    <Name>Headlight</Name>
+    <Description></Description>
+    <Image></Image>
+    <NoOfParts></NoOfParts>
+    <HowItWorks></HowItWorks>
+    <Parts>
+      <part1></part1>
+      <part2></part2>
+      <part3></part3>
+    </Parts>
+  </Assembly>
+
+  <Assembly>
+    <Id>11</Id>
+    <Name>Intake</Name>
+    <Description></Description>
+    <Image></Image>
+    <NoOfParts></NoOfParts>
+    <HowItWorks></HowItWorks>
+    <Parts>
+      <part1></part1>
+      <part2></part2>
+      <part3></part3>
+    </Parts>
+  </Assembly>
+
+  <Assembly>
+    <Id>12</Id>
+    <Name>Middle Drive Gear</Name>
+    <Description></Description>
+    <Image></Image>
+    <NoOfParts></NoOfParts>
+    <HowItWorks></HowItWorks>
+    <Parts>
+      <part1></part1>
+      <part2></part2>
+      <part3></part3>
+    </Parts>
+  </Assembly>
+
+  <Assembly>
+    <Id>13</Id>
+    <Name>Oil Cleaner</Name>
+    <Description></Description>
+    <Image></Image>
+    <NoOfParts></NoOfParts>
+    <HowItWorks></HowItWorks>
+    <Parts>
+      <part1></part1>
+      <part2></part2>
+      <part3></part3>
+    </Parts>
+  </Assembly>
+
+  <Assembly>
+    <Id>14</Id>
+    <Name>Oil Pump</Name>
+    <Description></Description>
+    <Image></Image>
+    <NoOfParts></NoOfParts>
+    <HowItWorks></HowItWorks>
+    <Parts>
+      <part1></part1>
+      <part2></part2>
+      <part3></part3>
+    </Parts>
+  </Assembly>
+
+  <Assembly>
+    <Id>15</Id>
+    <Name>Pickup Goil Governor</Name>
+    <Description></Description>
+    <Image></Image>
+    <NoOfParts></NoOfParts>
+    <HowItWorks></HowItWorks>
+    <Parts>
+      <part1></part1>
+      <part2></part2>
+      <part3></part3>
+    </Parts>
+  </Assembly>
+
+  <Assembly>
+    <Id>16</Id>
+    <Name>Rear Arm Suspension</Name>
+    <Description></Description>
+    <Image></Image>
+    <NoOfParts></NoOfParts>
+    <HowItWorks></HowItWorks>
+    <Parts>
+      <part1></part1>
+      <part2></part2>
+      <part3></part3>
+    </Parts>
+  </Assembly>
+
+  <Assembly>
+    <Id>17</Id>
+    <Name>Rear Wheel</Name>
+    <Description></Description>
+    <Image></Image>
+    <NoOfParts></NoOfParts>
+    <HowItWorks></HowItWorks>
+    <Parts>
+      <part1></part1>
+      <part2></part2>
+      <part3></part3>
+    </Parts>
+  </Assembly>
+
+  <Assembly>
+    <Id>18</Id>
+    <Name>Seat</Name>
+    <Description></Description>
+    <Image></Image>
+    <NoOfParts></NoOfParts>
+    <HowItWorks></HowItWorks>
+    <Parts>
+      <part1></part1>
+      <part2></part2>
+      <part3></part3>
+    </Parts>
+  </Assembly>
+
+  <Assembly>
+    <Id>19</Id>
+    <Name>Shift Cam Fork</Name>
+    <Description></Description>
+    <Image></Image>
+    <NoOfParts></NoOfParts>
+    <HowItWorks></HowItWorks>
+    <Parts>
+      <part1></part1>
+      <part2></part2>
+      <part3></part3>
+    </Parts>
+  </Assembly>
+
+  <Assembly>
+    <Id>20</Id>
+    <Name>Shift Shaft Pedal</Name>
+    <Description></Description>
+    <Image></Image>
+    <NoOfParts></NoOfParts>
+    <HowItWorks></HowItWorks>
+    <Parts>
+      <part1></part1>
+      <part2></part2>
+      <part3></part3>
+    </Parts>
+  </Assembly>
+
+  <Assembly>
+    <Id>21</Id>
+    <Name>Side Cover Tool</Name>
+    <Description></Description>
+    <Image></Image>
+    <NoOfParts></NoOfParts>
+    <HowItWorks></HowItWorks>
+    <Parts>
+      <part1></part1>
+      <part2></part2>
+      <part3></part3>
+    </Parts>
+  </Assembly>
+
+  <Assembly>
+    <Id>22</Id>
+    <Name>Speedometer Tachometer</Name>
+    <Description></Description>
+    <Image></Image>
+    <NoOfParts></NoOfParts>
+    <HowItWorks></HowItWorks>
+    <Parts>
+      <part1></part1>
+      <part2></part2>
+      <part3></part3>
+    </Parts>
+  </Assembly>
+
+  <Assembly>
+    <Id>23</Id>
+    <Name>Stand Footrest</Name>
+    <Description></Description>
+    <Image></Image>
+    <NoOfParts></NoOfParts>
+    <HowItWorks></HowItWorks>
+    <Parts>
+      <part1></part1>
+      <part2></part2>
+      <part3></part3>
+    </Parts>
+  </Assembly>
+
+  <Assembly>
+    <Id>24</Id>
+    <Name>Starter Cluch</Name>
+    <Description></Description>
+    <Image></Image>
+    <NoOfParts></NoOfParts>
+    <HowItWorks></HowItWorks>
+    <Parts>
+      <part1></part1>
+      <part2></part2>
+      <part3></part3>
+    </Parts>
+  </Assembly>
+
+  <Assembly>
+    <Id>25</Id>
+    <Name>Starting Motor</Name>
+    <Description></Description>
+    <Image></Image>
+    <NoOfParts></NoOfParts>
+    <HowItWorks></HowItWorks>
+    <Parts>
+      <part1></part1>
+      <part2></part2>
+      <part3></part3>
+    </Parts>
+  </Assembly>
+
+
+  <Assembly>
+    <Id>26</Id>
+    <Name>Steering</Name>
+    <Description></Description>
+    <Image></Image>
+    <NoOfParts></NoOfParts>
+    <HowItWorks></HowItWorks>
+    <Parts>
+      <part1></part1>
+      <part2></part2>
+      <part3></part3>
+    </Parts>
+  </Assembly>
+
+  <Assembly>
+    <Id>27</Id>
+    <Name>Tachometer Gear</Name>
+    <Description></Description>
+    <Image></Image>
+    <NoOfParts></NoOfParts>
+    <HowItWorks></HowItWorks>
+    <Parts>
+      <part1></part1>
+      <part2></part2>
+      <part3></part3>
+    </Parts>
+  </Assembly>
+
+  <Assembly>
+    <Id>28</Id>
+    <Name>Taillightl</Name>
+    <Description></Description>
+    <Image></Image>
+    <NoOfParts></NoOfParts>
+    <HowItWorks></HowItWorks>
+    <Parts>
+      <part1></part1>
+      <part2></part2>
+      <part3></part3>
+    </Parts>
+  </Assembly>
+
+  <Assembly>
+    <Id>29</Id>
+    <Name>Top End Gasket kit</Name>
+    <Description></Description>
+    <Image></Image>
+    <NoOfParts></NoOfParts>
+    <HowItWorks></HowItWorks>
+    <Parts>
+      <part1></part1>
+      <part2></part2>
+      <part3></part3>
+    </Parts>
+  </Assembly>
+
+  <Assembly>
+    <Id>30</Id>
+    <Name>Transmission</Name>
+    <Description></Description>
+    <Image></Image>
+    <NoOfParts></NoOfParts>
+    <HowItWorks></HowItWorks>
+    <Parts>
+      <part1></part1>
+      <part2></part2>
+      <part3></part3>
+    </Parts>
+  </Assembly>
+
+  <Assembly>
+    <Id>31</Id>
+    <Name>Valve</Name>
+    <Description></Description>
+    <Image></Image>
+    <NoOfParts></NoOfParts>
+    <HowItWorks></HowItWorks>
+    <Parts>
+      <part1></part1>
+      <part2></part2>
+      <part3></part3>
+    </Parts>
+  </Assembly>
+
+  <Assembly>
+    <Id>32</Id>
+    <Name>exhaust</Name>
+    <Description></Description>
+    <Image></Image>
+    <NoOfParts></NoOfParts>
+    <HowItWorks></HowItWorks>
+    <Parts>
+      <part1></part1>
+      <part2></part2>
+      <part3></part3>
+    </Parts>
+  </Assembly>
+
+  <Assembly>
+    <Id>33</Id>
+    <Name>Electricl1</Name>
+    <Description></Description>
+    <Image></Image>
+    <NoOfParts></NoOfParts>
+    <HowItWorks></HowItWorks>
+    <Parts>
+      <part1></part1>
+      <part2></part2>
+      <part3></part3>
+    </Parts>
+  </Assembly>
+
+  <Assembly>
+    <Id>34</Id>
+    <Name>Electricl2</Name>
+    <Description></Description>
+    <Image></Image>
+    <NoOfParts></NoOfParts>
+    <HowItWorks></HowItWorks>
+    <Parts>
+      <part1></part1>
+      <part2></part2>
+      <part3></part3>
+    </Parts>
+  </Assembly>
+
+  <Assembly>
+    <Id>35</Id>
+    <Name>Electricl2</Name>
+    <Description></Description>
+    <Image></Image>
+    <NoOfParts></NoOfParts>
+    <HowItWorks></HowItWorks>
+    <Parts>
+      <part1></part1>
+      <part2></part2>
+      <part3></part3>
+    </Parts>
+  </Assembly>
+
+  <Assembly>
+    <Id>36</Id>
+    <Name>Drive Shaft</Name>
+    <Description></Description>
+    <Image></Image>
+    <NoOfParts></NoOfParts>
+    <HowItWorks></HowItWorks>
+    <Parts>
+      <part1></part1>
+      <part2></part2>
+      <part3></part3>
+    </Parts>
+  </Assembly>
+
+  <Assembly>
+    <Id>37</Id>
+    <Name>Cylinder Head</Name>
+    <Description></Description>
+    <Image></Image>
+    <NoOfParts></NoOfParts>
+    <HowItWorks></HowItWorks>
+    <Parts>
+      <part1></part1>
+      <part2></part2>
+      <part3></part3>
+    </Parts>
+  </Assembly>
+
+  <Assembly>
+    <Id>38</Id>
+    <Name>Cylinder</Name>
+    <Description></Description>
+    <Image></Image>
+    <NoOfParts></NoOfParts>
+    <HowItWorks></HowItWorks>
+    <Parts>
+      <part1></part1>
+      <part2></part2>
+      <part3></part3>
+    </Parts>
+  </Assembly>
+
+  <Assembly>
+    <Id>39</Id>
+    <Name>Crankshaft Piston</Name>
+    <Description></Description>
+    <Image></Image>
+    <NoOfParts></NoOfParts>
+    <HowItWorks></HowItWorks>
+    <Parts>
+      <part1></part1>
+      <part2></part2>
+      <part3></part3>
+    </Parts>
+  </Assembly>
+
+
+  <Assembly>
+    <Id>40</Id>
+    <Name>Crankcase cover</Name>
+    <Description></Description>
+    <Image></Image>
+    <NoOfParts></NoOfParts>
+    <HowItWorks></HowItWorks>
+    <Parts>
+      <part1></part1>
+      <part2></part2>
+      <part3></part3>
+    </Parts>
+  </Assembly>
+
+
+  <Assembly>
+    <Id>41</Id>
+    <Name>Crankcase</Name>
+    <Description></Description>
+    <Image></Image>
+    <NoOfParts></NoOfParts>
+    <HowItWorks></HowItWorks>
+    <Parts>
+      <part1></part1>
+      <part2></part2>
+      <part3></part3>
+    </Parts>
+  </Assembly>
+
+
+  <Assembly>
+    <Id>42</Id>
+    <Name>Clutch</Name>
+    <Description></Description>
+    <Image></Image>
+    <NoOfParts></NoOfParts>
+    <HowItWorks></HowItWorks>
+    <Parts>
+      <part1></part1>
+      <part2></part2>
+      <part3></part3>
+    </Parts>
+  </Assembly>
+
+
+  <Assembly>
+    <Id>43</Id>
+    <Name>Carburetor</Name>
+    <Description></Description>
+    <Image></Image>
+    <NoOfParts></NoOfParts>
+    <HowItWorks></HowItWorks>
+    <Parts>
+      <part1></part1>
+      <part2></part2>
+      <part3></part3>
+    </Parts>
+  </Assembly>
+
+
+  <Assembly>
+    <Id>44</Id>
+    <Name>Camshaft Chain</Name>
+    <Description></Description>
+    <Image></Image>
+    <NoOfParts></NoOfParts>
+    <HowItWorks></HowItWorks>
+    <Parts>
+      <part1></part1>
+      <part2></part2>
+      <part3></part3>
+    </Parts>
+  </Assembly>
+
+  <Assembly>
+    <Id>45</Id>
+    <Name>AC Generator</Name>
+    <Description></Description>
+    <Image></Image>
+    <NoOfParts></NoOfParts>
+    <HowItWorks></HowItWorks>
+    <Parts>
+      <part1></part1>
+      <part2></part2>
+      <part3></part3>
+    </Parts>
+  </Assembly>
+  
+
+</Assemblies>
